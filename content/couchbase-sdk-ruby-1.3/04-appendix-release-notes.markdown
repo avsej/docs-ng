@@ -1,3 +1,8 @@
+---
+title: Release Notes
+ng: true
+---
+
 # Appendix: Release Notes
 
 The following sections provide release notes for individual release versions of
